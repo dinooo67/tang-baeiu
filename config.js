@@ -1,12 +1,13 @@
 const CONFIG = {
     introTitle: 'Bae iuuu!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Bầu trời đêm không mây, không sao
+    Trăng treo trên cao khi lòng Anh vẫn nhớ nhung Em nhiều
+    Anh làm sao có thể ngừng suy nghĩ đến đôi môi Em
+    Dù chỉ một giây,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    title: 'Dù lời nói có là gió bay
+    Anh vẫn mong sau này chúng ta trở thành của nhau',
+    desc: 'Mệt thì cứ ngoái lại phía sau anh vẫn luôn đây mà 🙆‍♀️ ',
     btnYes: 'Yêu ơi là Yêuuu <3',
     btnNo: 'Khùng hả =))',
     question:'Trên thế giới hơn 7 tỉ người mà sao Bae lại yêu toi zạaa <3',
