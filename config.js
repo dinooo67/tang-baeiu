@@ -1,12 +1,11 @@
 const CONFIG = {
     introTitle: 'Bae iuuu!',
-    introDesc: `Bầu trời đêm không mây, không sao
+    introDesc: `Bầu trời đêm không mây không sao
     Trăng treo trên cao khi lòng Anh vẫn nhớ nhung Em nhiều
     Anh làm sao có thể ngừng suy nghĩ đến đôi môi Em
-    Dù chỉ một giây,
+    Dù chỉ một giây`,
     btnIntro: 'hihi',
-    title: 'Dù lời nói có là gió bay
-    Anh vẫn mong sau này chúng ta trở thành của nhau',
+    title: 'Dù lời nói có là gió bay Anh vẫn mong sau này chúng ta trở thành của nhau',
     desc: 'Mệt thì cứ ngoái lại phía sau anh vẫn luôn đây mà 🙆‍♀️ ',
     btnYes: 'Yêu ơi là Yêuuu <3',
     btnNo: 'Khùng hả =))',
